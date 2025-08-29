@@ -4,6 +4,6 @@ theme:
   name: readthedocs
 
 nav:
-  - 目次: index.md
+  - Table of Contents: index.md
   - Chapter 1: chapter1/chapter1.md
   - Chapter 2: chapter2/chapter2.md
